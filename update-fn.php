@@ -13,3 +13,4 @@ $pdo=new PDO($connect,user,pass);
         ?>
         <p class="has-text-centered"><a href="book.php" class="button is-medium">本一覧へ</a></p>
 <?php require 'footer.php'; ?>
+
